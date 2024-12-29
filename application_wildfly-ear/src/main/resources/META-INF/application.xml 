@@ -1,0 +1,10 @@
+<application xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="7">
+    <display-name>application_wildfly-ear</display-name>
+
+    <module>
+        <web>
+            <web-uri>application_wildfly-web.war</web-uri>
+            <context-root>/</context-root> <!-- Esto asegura que tu app esté en "/" -->
+        </web>
+    </module>
+</application>
