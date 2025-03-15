@@ -9,7 +9,7 @@ INSTALL_DIR="/opt"
 WILDFLY_HOME="$INSTALL_DIR/wildfly-$WILDFLY_VERSION"
 
 # Configuración de Oracle
-DB_HOST="138.91.238.102"
+DB_HOST="13.83.133.176"
 DB_PORT="1521"
 DB_SERVICE="finance"
 DB_USER="finance_user"
